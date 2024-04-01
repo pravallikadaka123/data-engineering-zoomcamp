@@ -27,11 +27,11 @@ if you have troubles setting up the environment and following along with the vid
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/2JM-ziJt0WI)](https://youtu.be/2JM-ziJt0WI&list=PL3MmuxUbc_hJed7dXYoJw8DoCuVHhGEQb&index=5)
 
-* Running Postgres locally with Docker
-* Using `pgcli` for connecting to the database
-* Exploring the NY Taxi dataset
-* Ingesting the data into the database
-
+* Running Postgres locally with Docker ✅
+* Using `pgcli` for connecting to the database✅
+* Exploring the NY Taxi dataset✅
+* Ingesting the parquet data  in chunks into the database✅
+  
 > [!TIP]
 >if you have problems with `pgcli`, check this video for an alternative way to connect to your database in jupyter notebook and pandas.
 >
